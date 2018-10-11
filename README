@@ -1,0 +1,5 @@
+Run ./gtc.sh
+Explore its contents.
+Dig on from there!
+
+[31mBe aware that the gensamples_phase1* files have wrong game implementations, the last and assumed correct implementation of such task is at judge_alt.py:check* functions.[0m
